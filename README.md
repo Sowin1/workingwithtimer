@@ -1,2 +1,3 @@
 # workingwithtimer
-A timer for a website
+**A timer for a website**
+*Following tuto and remastered*
